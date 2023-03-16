@@ -4,10 +4,10 @@ slug: cwv-example
 title: Core Web Vitals
 
 summary: >-
-  An Core Web Vitals dashboards based on New Relic Browser agent data.
+  A Core Web Vitals dashboards based on New Relic Browser agent data.
 
 description: |
-  **A dashboard that displays the performance of your Core Web Vitalst**
+  **A dashboard that displays the performance of your Core Web Vitals**
 
   **Benefits of understanding CWV**
   1. **Improved User Experience:** Core Web Vitals are key performance metrics that can impact the user experience of a website. By monitoring these metrics with the New Relic Browser agent, you can identify and address issues that may be negatively affecting user experience, such as slow page load times, high input latency, or unexpected layout shifts.
@@ -25,7 +25,7 @@ icon: logo.svg
 documentation:
   - name: Browser
     description: >-
-      With New Relic One's browser monitoring solution, you get full visibility into the complete webpage life cycle of your application or website
+      With New Relic's browser monitoring solution, you get full visibility into the complete webpage life cycle of your application or website
     url: https://docs.newrelic.com/docs/browser/
 installPlans:
   - browser-docs
